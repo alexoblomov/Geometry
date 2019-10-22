@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alex/CLionProjects/ConvHull2D/Point2D.h
+iostream
+-
+
+/home/alex/CLionProjects/ConvHull2D/PointSet.h
+iostream
+-
+Point2D.h
+/home/alex/CLionProjects/ConvHull2D/Point2D.h
+
+/home/alex/CLionProjects/ConvHull2D/main.cpp
+iostream
+-
+bits/unique_ptr.h
+-
+Point2D.h
+/home/alex/CLionProjects/ConvHull2D/Point2D.h
+PointSet.h
+/home/alex/CLionProjects/ConvHull2D/PointSet.h
+set
+-
+algorithm
+-
+cmath
+-
+

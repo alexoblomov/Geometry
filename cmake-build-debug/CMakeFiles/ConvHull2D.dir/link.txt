@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ConvHull2D.dir/main.cpp.o CMakeFiles/ConvHull2D.dir/Point2D.cpp.o CMakeFiles/ConvHull2D.dir/PointSet.cpp.o  -o ConvHull2D 

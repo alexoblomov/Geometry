@@ -1,0 +1,3 @@
+/home/alex/CLionProjects/ConvHull2D/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/alex/CLionProjects/ConvHull2D/cmake-build-debug/CMakeFiles/ConvHull2D.dir
+/home/alex/CLionProjects/ConvHull2D/cmake-build-debug/CMakeFiles/edit_cache.dir
